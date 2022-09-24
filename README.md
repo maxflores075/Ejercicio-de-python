@@ -1,2 +1,2 @@
-# Ejercicio-de-python
-Prueba de los ejercicios de la clase 0
+# Entrega Tp_1
+Prueba de subida Tp_1
